@@ -1,0 +1,79 @@
+#loginButton {
+  border-radius: 4px;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 400px;
+  font-size: 19px;
+  background-color: cornflowerblue;
+  color: white;
+  border: none;
+}
+
+#loginButtonModal {
+  border-radius: 4px;
+  margin:auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 400px;
+  font-size: 19px;
+  background-color: #484545;
+  color: white;
+  border: none;
+}
+
+#usernamefield {
+  font-size: 19px;
+  color: gray;
+  width:400px;
+  border: 1px solid #dbdbdb;
+  border-radius: 2px;
+  height:50px;
+  text-align: center;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  text-align: center;
+  color: #dbdbdb;
+}
+
+#loginButtonFacebook {
+  border-radius: 4px;
+  margin:auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 400px;
+  font-size: 19px;
+  background-color: #4266b2;
+  color: white;
+  border: none;
+}
+#loginButtonGoogle {
+  border-radius: 4px;
+  margin:auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 400px;
+  font-size: 19px;
+  background-color: #fff;
+  color: #767676;
+  border: 2px solid #767676;
+  font-weight: bold;
+}
+
+#or {
+  color:lightgray;
+}
+
+#loginDiv {
+  margin-top: 300px;
+  text-align: center;
+}
+
+.modal-dialog {
+  margin-top: 150px;
+}
+
+.modal-body {
+  text-align: center;
+}
